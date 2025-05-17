@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: red; text-align: center;
+}
+
+p {
+    font-size: medium; text-align: justify;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+:visited {
+    color: red;
+}
+
+table {
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#container {
+    margin: auto;
+    padding: 10px;
+    max-width: 850px;
+    min-width: 800px;
+    background-color: antiquewhite;
+}
